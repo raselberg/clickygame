@@ -1,0 +1,17 @@
+.App-header {
+  background-color: white;
+  height: 80px;
+  padding: 10px;
+  color: black;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.App-title {
+  font-size: 2em;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.App-intro {
+  font-size: large;
+  font-family: 'Abril Fatface', cursive;
+}
